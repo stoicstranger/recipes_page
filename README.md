@@ -1,2 +1,2 @@
-# recipes_page
+# odin_recipes
 Recipe Page Project
