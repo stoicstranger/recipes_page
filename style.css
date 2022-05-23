@@ -1,0 +1,22 @@
+.homepage-title,
+.homepage-sub,
+.homepage-img,
+.recipe-pages {
+    text-align: center;
+    color:brown;
+}
+img {
+    height: auto;
+    width: auto;
+}
+button {
+    font-weight: bolder;
+    background-color: aqua;
+}
+body {
+    font-family: "Times New Roman", Courier, monospace;
+}
+.recipe-pages {
+    font-size: large;
+    color: red;
+}
